@@ -1,7 +1,8 @@
 ### Fala pessoal  👋 🚀
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMiraya&layout=compact)](https://github.com/joaoMiraya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMiraya&langs_count=8)](https://github.com/joaoMiraya/github-readme-stats)
+
 
 
 ## Tecnologias que estudo atualmente
