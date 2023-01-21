@@ -40,7 +40,5 @@
 <br />
 
 <br />
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoMiraya&show_icons=true&theme=dracula)
 
 ### "Você tem que ser o espelho da mudança que está propondo. Se eu quero mudar o mundo, tenho que começar por mim."
