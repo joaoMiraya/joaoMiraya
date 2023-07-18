@@ -1,4 +1,4 @@
-### Fala pessoal  👋 🚀
+### Hey there 👋 🚀
 <br />
 
 ## Tecnologias que estudo atualmente
