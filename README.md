@@ -1,10 +1,24 @@
-### Hey there 👋 🚀
-<br />
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 
-  Sou um Desenvolvedor Full Stack e minhas princípais stacks são:
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoMiraya&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoMiraya&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,github,linux,postman,styledcomponents,vercel,vite,bootstrap,postgres" />
+</a>
   <br />
-   ES6 | TypeScript | React | Angular | Express.js | C# ASP .NET | PHP | AWS | MySQL | Docker 
 
-<br />
+  </div>
 
-### "Você tem que ser o espelho da mudança que está propondo. Se eu quero mudar o mundo, tenho que começar por mim."
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=joaoMiraya&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
