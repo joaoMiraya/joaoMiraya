@@ -14,10 +14,10 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,express,sequelize,php&perline=4" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=2" />
+    <img src="https://skillicons.dev/icons?i=react,solidjs,vite,redux,tailwind,saas&perline=3" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,solidjs,vite,redux,tailwind,saas&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=2" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,cloudflare,figma,jenkins,github,linux,postman&perline=4" />
