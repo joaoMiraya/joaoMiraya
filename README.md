@@ -6,18 +6,23 @@
 
 
  
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,nodejs,aws,typescript,terraform,cs,dotnet,php,cloudflare,css,html,react,redux,vite,solidjs,bootstrap,tailwind,sass,figma,nodejs,express,sequelize,docker,jenkins,github,linux,postman,mysql,postgres,sqlite,redis" />
-</a>
-  <br />
-    <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes&perline=3" />
-</a>
-    [![My Skills](https://skillicons.dev/icons?)](https://skillicons.dev)
-  <br />
-
-  </div>
+<div align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes&perline=3" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,express,sequelize,php&perline=4" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=2" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,solidjs,vite,redux,tailwind,saas&perline=3" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,cloudflare,figma,jenkins,github,linux,postman&perline=4" />
+  </a>
+</div>
 
  
 ##
