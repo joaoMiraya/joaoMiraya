@@ -6,7 +6,7 @@
 
 
  
-<div align="center" >
+<div align="justify-around" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes&perline=3" />
   </a>
