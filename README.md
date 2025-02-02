@@ -11,7 +11,10 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,nodejs,aws,typescript,terraform,cs,dotnet,php,cloudflare,css,html,react,redux,vite,solidjs,bootstrap,tailwind,sass,figma,nodejs,express,sequelize,docker,jenkins,github,linux,postman,mysql,postgres,sqlite,redis" />
 </a>
   <br />
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes&perline=3)](https://skillicons.dev)
+    <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes&perline=3" />
+</a>
+    [![My Skills](https://skillicons.dev/icons?)](https://skillicons.dev)
   <br />
 
   </div>
