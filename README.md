@@ -1,4 +1,3 @@
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-João%20Miraya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaomiraya)
 
@@ -9,13 +8,16 @@
 
 <br />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,nodejs,express,php,mysql,postgres,sqlite,redis,aws,azure,terraform,docker,git,jenkins,github,linux,postman&perline=8" />
-</a>
 
-<br /><br />
+<div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiraya&layout=compact&theme=dracula)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,nodejs,express,php,mysql,postgres,sqlite,redis,aws,azure,terraform,docker,git,jenkins,github,linux,postman&perline=6" height="160" />
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiraya&layout=compact&theme=dracula&langs_count=6" height="160" />
+
+</div>
 
 <br /><br />
 
@@ -25,4 +27,3 @@
 
 ### "You have to be the mirror of the change you are proposing. If I want to change the world, I have to start with myself."
 
-</div>
