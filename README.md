@@ -2,26 +2,27 @@
 [![LinkedIn](https://img.shields.io/badge/-João%20Miraya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaomiraya)
 
 ---
-
-| [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoMiraya&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoMiraya&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+<div align="center">
+  
+| [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoMiraya&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoMiraya&theme=darcula) |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 
 <br />
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
+<div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,nodejs,express,php,mysql,postgres,sqlite,redis,aws,azure,terraform,docker,git,jenkins,github,linux,postman&perline=6" height="160" />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 50px; width: 100%; max-width: 900px; margin: 0 auto;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiraya&layout=compact&theme=dracula&langs_count=6" height="160" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,nodejs,express,php,mysql,postgres,sqlite,redis,aws,azure,terraform,docker,git,jenkins,github,linux,postman&perline=7" height="160" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoMiraya&theme=dracula" height="160" />
 
 </div>
 
-<br /><br />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=joaoMiraya&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
 ---
 
